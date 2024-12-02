@@ -30,6 +30,6 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
-{% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}{% endraw %}
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo004" width="25" centered=true %}
 
 
