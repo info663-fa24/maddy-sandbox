@@ -1,5 +1,5 @@
 ---
 title: Marion Nestle
-layout: browse
+layout: about
 permalink: /marion_nestle.html
 ---
